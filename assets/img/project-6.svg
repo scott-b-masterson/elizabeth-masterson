@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Gallery Styling placeholder">
+  <defs>
+    <linearGradient id="g_project_6_svg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B6BDAB"/>
+      <stop offset="1" stop-color="#929C82"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g_project_6_svg)"/>
+  <rect x="14" y="14" width="772" height="972" fill="none" stroke="#B08D57" stroke-opacity="0.35" stroke-width="1.4"/>
+  
+        <path d="M335.23809523809524 555.2380952380952 l22.857142857142854 133.33333333333331 l83.80952380952381 0 l22.857142857142854 -133.33333333333331 Z" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <path d="M400.0 555.2380952380952 q-114.28571428571428 -76.19047619047619 -87.61904761904762 -228.57142857142856 q76.19047619047619 57.14285714285714 87.61904761904762 228.57142857142856" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <path d="M400.0 555.2380952380952 q114.28571428571428 -76.19047619047619 87.61904761904762 -228.57142857142856 q-76.19047619047619 57.14285714285714 -87.61904761904762 228.57142857142856" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <path d="M400.0 555.2380952380952 q-15.238095238095237 -133.33333333333331 0 -247.6190476190476 q15.238095238095237 114.28571428571428 0 247.6190476190476" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        
+  <text x="400.0" y="835.0" text-anchor="middle" fill="#B08D57" font-family="Jost, Helvetica, Arial, sans-serif" font-size="14.399999999999999" letter-spacing="4.8" style="text-transform:uppercase">Styling</text>
+  <text x="400.0" y="895.0" text-anchor="middle" fill="#2D2D2D" font-family="Georgia, 'Cormorant Garamond', serif" font-size="36.0" font-style="italic">Gallery Styling</text>
+  <text x="400.0" y="950.0" text-anchor="middle" fill="rgba(45,45,45,.45)" font-family="Jost, Helvetica, Arial, sans-serif" font-size="10.4" letter-spacing="2">PLACEHOLDER · REPLACE WITH PHOTO · 800×1000</text>
+  <g opacity="0.5" transform="translate(730,30) scale(0.7)" fill="none" stroke="#B08D57" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M0 34 L0 2 L16 2 M0 18 L13 18 M0 34 L16 34"/>
+        <path d="M26 34 L26 2 L35 24 L44 2 L44 34"/></g>
+</svg>

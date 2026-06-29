@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Elizabeth Masterson placeholder">
+  <defs>
+    <linearGradient id="g_og_image_svg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7DCCE"/>
+      <stop offset="1" stop-color="#D2C0AB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g_og_image_svg)"/>
+  <rect x="14" y="14" width="1172" height="602" fill="none" stroke="#B08D57" stroke-opacity="0.35" stroke-width="1.4"/>
+  
+        <path d="M465.0 469.8 L465.0 259.8 A135.0 135.0 0 0 1 735.0 259.8 L735.0 469.8" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <path d="M555.0 469.8 q45.0 -105.0 0 -165.0 q-45.0 60.0 0 165.0 Z" fill="#B08D57" opacity="0.12"/>
+        <path d="M555.0 469.8 q45.0 -105.0 0 -165.0 q-45.0 60.0 0 165.0 Z" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        
+  <text x="600.0" y="526.05" text-anchor="middle" fill="#B08D57" font-family="Jost, Helvetica, Arial, sans-serif" font-size="21.599999999999998" letter-spacing="7.2" style="text-transform:uppercase">Interior Design</text>
+  <text x="600.0" y="563.85" text-anchor="middle" fill="#2D2D2D" font-family="Georgia, 'Cormorant Garamond', serif" font-size="54.0" font-style="italic">Elizabeth Masterson</text>
+  <g opacity="0.5" transform="translate(1130,30) scale(0.8571428571428571)" fill="none" stroke="#B08D57" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M0 34 L0 2 L16 2 M0 18 L13 18 M0 34 L16 34"/>
+        <path d="M26 34 L26 2 L35 24 L44 2 L44 34"/></g>
+</svg>

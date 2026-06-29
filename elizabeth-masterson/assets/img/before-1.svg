@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Empty room placeholder">
+  <defs>
+    <linearGradient id="g_before_1_svg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F3EE"/>
+      <stop offset="1" stop-color="#EFE9E0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g_before_1_svg)"/>
+  <rect x="14" y="14" width="1172" height="772" fill="none" stroke="#B08D57" stroke-opacity="0.35" stroke-width="1.4"/>
+  
+        <rect x="438.0952380952381" y="168.0" width="323.8095238095238" height="380.9523809523809" rx="4" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <path d="M600.0 168.0 l0 380.9523809523809 M438.0952380952381 358.4761904761905 l323.8095238095238 0" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        <path d="M438.0952380952381 168.0 q38.095238095238095 190.47619047619045 0 380.9523809523809 M761.9047619047619 168.0 q-38.095238095238095 190.47619047619045 0 380.9523809523809" fill="none" stroke="#B08D57" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+        
+  <text x="600.0" y="668.0" text-anchor="middle" fill="#B08D57" font-family="Jost, Helvetica, Arial, sans-serif" font-size="21.599999999999998" letter-spacing="7.2" style="text-transform:uppercase">Before</text>
+  <text x="600.0" y="716.0" text-anchor="middle" fill="#2D2D2D" font-family="Georgia, 'Cormorant Garamond', serif" font-size="54.0" font-style="italic">Empty room</text>
+  <text x="600.0" y="760.0" text-anchor="middle" fill="rgba(45,45,45,.45)" font-family="Jost, Helvetica, Arial, sans-serif" font-size="15.6" letter-spacing="2">PLACEHOLDER · REPLACE WITH PHOTO · 1200×800</text>
+  <g opacity="0.5" transform="translate(1130,30) scale(0.8571428571428571)" fill="none" stroke="#B08D57" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M0 34 L0 2 L16 2 M0 18 L13 18 M0 34 L16 34"/>
+        <path d="M26 34 L26 2 L35 24 L44 2 L44 34"/></g>
+</svg>
